@@ -4,7 +4,7 @@
       "delegate_permission/common.handle_all_urls"
     ],
     "target": {
-      "namespace": "com.roda.app.qa",
+      "namespace": "android_app",
       "package_name": "com.roda.app.qa",
       "sha256_cert_fingerprints": [
         "47:23:e4:89:83:e4:04:82:cc:c0:cb:93:7f:61:47:cc:a8:52:a0:b1:63:21:01:0b:de:6c:9c:66:fd:77:39:29,",
