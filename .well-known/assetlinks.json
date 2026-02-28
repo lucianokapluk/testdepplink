@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "com.roda.app",
+      "package_name": "com.roda.app",
+      "sha256_cert_fingerprints": [
+        "47:23:e4:89:83:e4:04:82:cc:c0:cb:93:7f:61:47:cc:a8:52:a0:b1:63:21:01:0b:de:6c:9c:66:fd:77:39:29,",
+        "95:5c:6f:4b:88:8a:a8:51:f1:53:32:5f:8e:3a:a0:11:4f:6c:9b:97:d5:89:01:6d:ae:55:57:10:34:29:4b:79"
+      ]
+    }
+  }
+]
